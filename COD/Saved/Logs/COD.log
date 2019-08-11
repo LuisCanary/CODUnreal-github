@@ -630,3 +630,537 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.11-11.54.56:193][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
 [2019.08.11-11.54.56:605][332]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonExampleMap4D06642D42D2085B320367999C6A5F17.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.08.11-11.54.57:948][332]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonExampleMap_BuiltDataF3DD4EA84862DDF31B7A508980AFBE6D.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.08.11-12.03.33:507][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-12.03.53:761][736]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.11-12.04.04:108][949]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.11-12.04.39:304][735]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.11-12.05.02:526][187]LogMetaData: Removing '/Game/Blueprints/PlayerState.PlayerState' ref from Metadata '/Game/Blueprints/NewUserDefinedEnum.PackageMetaData'
+[2019.08.11-12.05.02:567][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerState" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/PlayerState.uasset" SILENT=true
+[2019.08.11-12.05.02:574][187]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/PlayerStateB1759EAF4A3F9B2EB06C019409C257B0.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/PlayerState.uasset'
+[2019.08.11-12.05.02:674][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.08.11-12.05.02:700][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.08.11-12.05.02:719][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.08.11-12.05.05:310][490]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Blueprints/PlayerState.PlayerState
+[2019.08.11-12.05.08:821][881]LogSlate: Window 'PlayerState' being destroyed
+[2019.08.11-12.05.15:269][642]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (35.937 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.11-12.05.55:038][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerState" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/PlayerState.uasset" SILENT=true
+[2019.08.11-12.05.55:059][285]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/PlayerStateB2511B7A4889A565B5CACBABCD8A229B.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/PlayerState.uasset'
+[2019.08.11-12.06.26:483][  2]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Blueprints/WeaponType.WeaponType
+[2019.08.11-12.06.32:953][756]LogSlate: Window 'WeaponType' being destroyed
+[2019.08.11-12.06.42:753][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponType" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/WeaponType.uasset" SILENT=true
+[2019.08.11-12.06.42:759][899]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/WeaponType49D9FEBA492E9F33DD03B69CEE4B4428.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/WeaponType.uasset'
+[2019.08.11-12.06.45:330][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponType" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/WeaponType.uasset" SILENT=true
+[2019.08.11-12.06.45:345][193]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/WeaponTypeB567BB54451AB9B7811959975B8AFA13.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/WeaponType.uasset'
+[2019.08.11-12.07.38:269][490]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprints/WeaponData.WeaponData
+[2019.08.11-12.07.42:491][944]LogSlate: Window 'WeaponData' being destroyed
+[2019.08.11-12.07.54:745][384]LogSlate: Took 0.032955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.11-12.09.21:860][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponData" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/WeaponData.uasset" SILENT=true
+[2019.08.11-12.09.21:870][728]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/WeaponData5ED8E92B4F24B9DCA8330CA9199C5EC0.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/WeaponData.uasset'
+[2019.08.11-12.09.45:116][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WeaponData" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/WeaponData.uasset" SILENT=true
+[2019.08.11-12.09.45:162][314]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/WeaponData8C6425FC448D9B98BFA5398C5F2C9B37.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/WeaponData.uasset'
+[2019.08.11-12.22.38:862][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-12.22.45:233][985]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_LanucherReload.FPP_LanucherReload
+[2019.08.11-12.22.45:233][985]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_LanucherReload.FPP_LanucherReload) using current/default (AnimCompress_RemoveLinearKeys_65) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.22.45:333][985]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_GrenadeLauncher_Reload01_Stereo...
+[2019.08.11-12.22.45:444][985]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 324344 while cooking SoundWave /Game/Sounds/Weapon_GrenadeLauncher/Stereo/Weapon_GrenadeLauncher_Reload01_Stereo.Weapon_GrenadeLauncher_Reload01_Stereo.
+[2019.08.11-12.22.45:444][985]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_GrenadeLauncher_Reload02_Stereo...
+[2019.08.11-12.22.45:487][985]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 308636 while cooking SoundWave /Game/Sounds/Weapon_GrenadeLauncher/Stereo/Weapon_GrenadeLauncher_Reload02_Stereo.Weapon_GrenadeLauncher_Reload02_Stereo.
+[2019.08.11-12.22.45:488][985]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_GrenadeLauncher_Reload03_Stereo...
+[2019.08.11-12.22.45:534][985]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 388992 while cooking SoundWave /Game/Sounds/Weapon_GrenadeLauncher/Stereo/Weapon_GrenadeLauncher_Reload03_Stereo.Weapon_GrenadeLauncher_Reload03_Stereo.
+[2019.08.11-12.22.45:534][985]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_BodyMove03_Stereo...
+[2019.08.11-12.22.45:557][985]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 117632 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove03_Stereo.FoleyBody_BodyMove03_Stereo.
+[2019.08.11-12.22.45:558][985]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_BodyMove01_Stereo...
+[2019.08.11-12.22.45:571][985]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 98368 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove01_Stereo.FoleyBody_BodyMove01_Stereo.
+[2019.08.11-12.22.45:571][985]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_BodyMove02_Stereo...
+[2019.08.11-12.22.45:598][985]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 109108 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove02_Stereo.FoleyBody_BodyMove02_Stereo.
+[2019.08.11-12.22.45:599][985]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_BodyMove04_Stereo...
+[2019.08.11-12.22.45:617][985]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 114420 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove04_Stereo.FoleyBody_BodyMove04_Stereo.
+[2019.08.11-12.22.45:636][985]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animations/FPP_Animations/FPP_LanucherReload.FPP_LanucherReload
+[2019.08.11-12.22.50:610][985]LogTexture: Display: Building textures: Chr_FPS_Fabric_N_01 (BC5, 512X512)
+[2019.08.11-12.22.50:610][985]LogTexture: Display: Building textures: Chr_FPS_02_M (AutoDXT, 2048X2048)
+[2019.08.11-12.22.50:610][985]LogTexture: Display: Building textures: T_Sctraches_01 (AutoDXT, 2048X2048)
+[2019.08.11-12.22.50:610][985]LogTexture: Display: Building textures: Chr_FPS_Metal_01 (BC5, 2048X2048)
+[2019.08.11-12.22.50:610][985]LogTexture: Display: Building textures: Chr_FPS_M_03tga (AutoDXT, 2048X2048)
+[2019.08.11-12.22.50:610][985]LogTexture: Display: Building textures: Chr_FPS_Metal_02 (AutoDXT, 2048X2048)
+[2019.08.11-12.22.50:610][985]LogTexture: Display: Building textures: Chr_FPS_D (AutoDXT, 2048X2048)
+[2019.08.11-12.22.50:610][985]LogTexture: Display: Building textures: T_Vista_Grass_N (BC5, 1024X1024)
+[2019.08.11-12.22.50:610][985]LogTexture: Display: Building textures: Chr_FPS_M (BGRA8, 2048X2048)
+[2019.08.11-12.22.50:610][985]LogTexture: Display: Building textures: Chr_FPS_N (BC5, 2048X2048)
+[2019.08.11-12.22.50:610][985]LogSkeletalMesh: Building Skeletal Mesh HeroFPP...
+[2019.08.11-12.22.50:655][985]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Characters/HeroFPP/HeroFPP.HeroFPP
+[2019.08.11-12.22.50:661][985]LogMaterial: Display: Missing cached shader map for material HeroTPP, compiling. 
+[2019.08.11-12.22.50:965][985]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.08.11-12.22.50:965][985]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.08.11-12.22.50:965][985]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.08.11-12.22.50:965][985]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.08.11-12.22.50:965][985]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.08.11-12.22.52:130][985]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-12.22.52:183][985]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.08.11-12.22.53:432][985]LogRenderer: Reallocating scene render targets to support 872x360 Format 10 NumSamples 1 (Frame:1).
+[2019.08.11-12.22.53:432][985]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.11-12.22.54:803][ 55]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Characters/HeroFPP/HeroFPP_Skeleton.HeroFPP_Skeleton
+[2019.08.11-12.22.54:824][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-12.22.55:159][ 56]LogRenderer: Reallocating scene render targets to support 872x572 Format 10 NumSamples 1 (Frame:1).
+[2019.08.11-12.22.56:117][107]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.08.11-12.22.56:133][108]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.08.11-12.22.56:854][163]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.08.11-12.22.58:431][282]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.08.11-12.22.58:750][304]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.08.11-12.22.59:598][356]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.08.11-12.23.01:047][462]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.08.11-12.23.01:082][465]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.08.11-12.23.01:685][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-12.23.19:462][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-12.25.04:001][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HeroFPP/HeroFPP_Skeleton" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Characters/HeroFPP/HeroFPP_Skeleton.uasset" SILENT=true
+[2019.08.11-12.25.04:016][772]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/HeroFPP_SkeletonFE44A39E4AD12BA32AD7038E2E2CCD6B.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Characters/HeroFPP/HeroFPP_Skeleton.uasset'
+[2019.08.11-12.25.23:640][693]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2019.08.11-12.25.23:667][693]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-12.25.23:734][693]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.11-12.25.24:023][693]LogSlate: Took 0.031368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.11-12.25.28:884][235]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2019.08.11-12.25.28:891][235]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-12.25.28:914][235]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.11-12.25.39:392][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-12.26.14:973][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.08.11-12.26.14:973][715]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.023
+[2019.08.11-12.26.14:990][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/HeroFPP/HeroFPP] ([1] browsable assets)...
+[2019.08.11-12.26.15:041][715]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/HeroFPP/HeroFPP.HeroFPP]
+[2019.08.11-12.26.15:041][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/HeroFPP/HeroFPP]
+[2019.08.11-12.26.15:085][715]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/HeroFPP_Auto1E335EE854712D0E5E6FBC7B6CEF8CD45.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/Characters/HeroFPP/HeroFPP_Auto1.uasset'
+[2019.08.11-12.26.15:086][715]LogFileHelpers: Auto-saving content packages took 0.112
+[2019.08.11-12.27.17:343][921]LogSlate: Window 'Save Mapping' being destroyed
+[2019.08.11-12.27.33:639][763]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/SK_Mannequin_Arms_Skeleton238433A4438503512E2046A7F623A321.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2019.08.11-12.27.42:326][639]LogSlate: Window 'Retarget Manager' being destroyed
+[2019.08.11-12.27.42:332][639]LogSlate: Window 'Retarget Manager' being destroyed
+[2019.08.11-12.27.56:735][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherAim.FPP_LauncherAim
+[2019.08.11-12.27.56:736][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherAim.FPP_LauncherAim) using current/default (AnimCompress_RemoveLinearKeys_44) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.56:777][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherAimFire.FPP_LauncherAimFire
+[2019.08.11-12.27.56:777][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherAimFire.FPP_LauncherAimFire) using current/default (AnimCompress_RemoveLinearKeys_63) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.56:793][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherEquip.FPP_LauncherEquip
+[2019.08.11-12.27.56:793][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherEquip.FPP_LauncherEquip) using current/default (AnimCompress_RemoveLinearKeys_62) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.56:810][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_GrenadeLauncher_Swap01_Stereo...
+[2019.08.11-12.27.56:838][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 136016 while cooking SoundWave /Game/Sounds/Weapon_GrenadeLauncher/Stereo/Weapon_GrenadeLauncher_Swap01_Stereo.Weapon_GrenadeLauncher_Swap01_Stereo.
+[2019.08.11-12.27.56:840][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_GrenadeLauncher_Swap03_Stereo...
+[2019.08.11-12.27.56:867][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 134040 while cooking SoundWave /Game/Sounds/Weapon_GrenadeLauncher/Stereo/Weapon_GrenadeLauncher_Swap03_Stereo.Weapon_GrenadeLauncher_Swap03_Stereo.
+[2019.08.11-12.27.56:868][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_GrenadeLauncher_Swap02_Stereo...
+[2019.08.11-12.27.56:896][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 139904 while cooking SoundWave /Game/Sounds/Weapon_GrenadeLauncher/Stereo/Weapon_GrenadeLauncher_Swap02_Stereo.Weapon_GrenadeLauncher_Swap02_Stereo.
+[2019.08.11-12.27.56:898][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_HandSwipe04_Stereo...
+[2019.08.11-12.27.56:927][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 211684 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe04_Stereo.FoleyBody_HandSwipe04_Stereo.
+[2019.08.11-12.27.56:928][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_HandSwipe01_Stereo...
+[2019.08.11-12.27.56:957][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 246960 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe01_Stereo.FoleyBody_HandSwipe01_Stereo.
+[2019.08.11-12.27.56:959][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_HandSwipe03_Stereo...
+[2019.08.11-12.27.56:987][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 194040 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe03_Stereo.FoleyBody_HandSwipe03_Stereo.
+[2019.08.11-12.27.56:988][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_HandSwipe02_Stereo...
+[2019.08.11-12.27.57:007][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 176404 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe02_Stereo.FoleyBody_HandSwipe02_Stereo.
+[2019.08.11-12.27.57:011][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherFire.FPP_LauncherFire
+[2019.08.11-12.27.57:011][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherFire.FPP_LauncherFire) using current/default (AnimCompress_RemoveLinearKeys_64) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:022][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherIdle.FPP_LauncherIdle
+[2019.08.11-12.27.57:022][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherIdle.FPP_LauncherIdle) using current/default (AnimCompress_RemoveLinearKeys_45) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:059][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherJumpEnd.FPP_LauncherJumpEnd
+[2019.08.11-12.27.57:059][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherJumpEnd.FPP_LauncherJumpEnd) using current/default (AnimCompress_RemoveLinearKeys_46) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:068][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_Land03_Stereo...
+[2019.08.11-12.27.57:096][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 207468 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land03_Stereo.FoleyBody_Land03_Stereo.
+[2019.08.11-12.27.57:097][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_Land04_Stereo...
+[2019.08.11-12.27.57:127][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 213600 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land04_Stereo.FoleyBody_Land04_Stereo.
+[2019.08.11-12.27.57:128][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_Land02_Stereo...
+[2019.08.11-12.27.57:156][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 198492 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land02_Stereo.FoleyBody_Land02_Stereo.
+[2019.08.11-12.27.57:157][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_Land01_Stereo...
+[2019.08.11-12.27.57:179][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 206048 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land01_Stereo.FoleyBody_Land01_Stereo.
+[2019.08.11-12.27.57:180][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave FoleyBody_Land05_Stereo...
+[2019.08.11-12.27.57:199][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 202412 while cooking SoundWave /Game/Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land05_Stereo.FoleyBody_Land05_Stereo.
+[2019.08.11-12.27.57:205][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherJumpLoop.FPP_LauncherJumpLoop
+[2019.08.11-12.27.57:205][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherJumpLoop.FPP_LauncherJumpLoop) using current/default (AnimCompress_RemoveLinearKeys_47) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:224][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherJumpStart.FPP_LauncherJumpStart
+[2019.08.11-12.27.57:224][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherJumpStart.FPP_LauncherJumpStart) using current/default (AnimCompress_RemoveLinearKeys_48) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:249][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherRoadieRun.FPP_LauncherRoadieRun
+[2019.08.11-12.27.57:249][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherRoadieRun.FPP_LauncherRoadieRun) using current/default (AnimCompress_RemoveLinearKeys_49) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:257][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic04_Stereo...
+[2019.08.11-12.27.57:272][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 71808 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic04_Stereo.Footstep_Generic04_Stereo.
+[2019.08.11-12.27.57:274][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic02_Stereo...
+[2019.08.11-12.27.57:293][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 85000 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic02_Stereo.Footstep_Generic02_Stereo.
+[2019.08.11-12.27.57:294][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic03_Stereo...
+[2019.08.11-12.27.57:310][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 87676 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic03_Stereo.Footstep_Generic03_Stereo.
+[2019.08.11-12.27.57:312][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic06_Stereo...
+[2019.08.11-12.27.57:336][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 96692 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic06_Stereo.Footstep_Generic06_Stereo.
+[2019.08.11-12.27.57:337][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic05_Stereo...
+[2019.08.11-12.27.57:353][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 95500 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic05_Stereo.Footstep_Generic05_Stereo.
+[2019.08.11-12.27.57:354][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic07_Stereo...
+[2019.08.11-12.27.57:370][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 85448 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic07_Stereo.Footstep_Generic07_Stereo.
+[2019.08.11-12.27.57:371][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic09_Stereo...
+[2019.08.11-12.27.57:384][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 82560 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic09_Stereo.Footstep_Generic09_Stereo.
+[2019.08.11-12.27.57:385][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic11_Stereo...
+[2019.08.11-12.27.57:399][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 82620 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic11_Stereo.Footstep_Generic11_Stereo.
+[2019.08.11-12.27.57:400][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic10_Stereo...
+[2019.08.11-12.27.57:418][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 102624 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic10_Stereo.Footstep_Generic10_Stereo.
+[2019.08.11-12.27.57:420][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic01_Stereo...
+[2019.08.11-12.27.57:437][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 100144 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic01_Stereo.Footstep_Generic01_Stereo.
+[2019.08.11-12.27.57:437][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic12_Stereo...
+[2019.08.11-12.27.57:451][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101052 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic12_Stereo.Footstep_Generic12_Stereo.
+[2019.08.11-12.27.57:453][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Generic08_Stereo...
+[2019.08.11-12.27.57:465][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101696 while cooking SoundWave /Game/Sounds/Footsteps/Stereo/Footstep_Generic08_Stereo.Footstep_Generic08_Stereo.
+[2019.08.11-12.27.57:470][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherRun.FPP_LauncherRun
+[2019.08.11-12.27.57:470][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_LauncherRun.FPP_LauncherRun) using current/default (AnimCompress_RemoveLinearKeys_50) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:491][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_RifleAim.FPP_RifleAim
+[2019.08.11-12.27.57:491][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_RifleAim.FPP_RifleAim) using current/default (AnimCompress_RemoveLinearKeys_51) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:510][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_RifleAimFire.FPP_RifleAimFire
+[2019.08.11-12.27.57:510][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_RifleAimFire.FPP_RifleAimFire) using current/default (AnimCompress_RemoveLinearKeys_60) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:522][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_RifleEquip.FPP_RifleEquip
+[2019.08.11-12.27.57:522][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_RifleEquip.FPP_RifleEquip) using current/default (AnimCompress_RemoveLinearKeys_58) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:537][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_AssaultRifle_Swap03_Stereo...
+[2019.08.11-12.27.57:564][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101712 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap03_Stereo.Weapon_AssaultRifle_Swap03_Stereo.
+[2019.08.11-12.27.57:565][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_AssaultRifle_Swap01_Stereo...
+[2019.08.11-12.27.57:594][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 110928 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap01_Stereo.Weapon_AssaultRifle_Swap01_Stereo.
+[2019.08.11-12.27.57:597][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_AssaultRifle_Swap02_Stereo...
+[2019.08.11-12.27.57:615][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 137004 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap02_Stereo.Weapon_AssaultRifle_Swap02_Stereo.
+[2019.08.11-12.27.57:620][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_RifleFire.FPP_RifleFire
+[2019.08.11-12.27.57:620][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_RifleFire.FPP_RifleFire) using current/default (AnimCompress_RemoveLinearKeys_61) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:627][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_RifleIdle.FPP_RifleIdle
+[2019.08.11-12.27.57:627][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_RifleIdle.FPP_RifleIdle) using current/default (AnimCompress_RemoveLinearKeys_52) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:650][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_RifleJumpEnd.FPP_RifleJumpEnd
+[2019.08.11-12.27.57:650][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_RifleJumpEnd.FPP_RifleJumpEnd) using current/default (AnimCompress_RemoveLinearKeys_53) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:657][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_RifleJumpLoop.FPP_RifleJumpLoop
+[2019.08.11-12.27.57:658][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_RifleJumpLoop.FPP_RifleJumpLoop) using current/default (AnimCompress_RemoveLinearKeys_54) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:672][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_RifleJumpStart.FPP_RifleJumpStart
+[2019.08.11-12.27.57:672][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_RifleJumpStart.FPP_RifleJumpStart) using current/default (AnimCompress_RemoveLinearKeys_55) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:686][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_RifleReload.FPP_RifleReload
+[2019.08.11-12.27.57:686][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_RifleReload.FPP_RifleReload) using current/default (AnimCompress_RemoveLinearKeys_59) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:722][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_AssaultRifle_Reload03_Stereo...
+[2019.08.11-12.27.57:751][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 141196 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload03_Stereo.Weapon_AssaultRifle_Reload03_Stereo.
+[2019.08.11-12.27.57:752][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_AssaultRifle_Reload01_Stereo...
+[2019.08.11-12.27.57:779][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 139816 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload01_Stereo.Weapon_AssaultRifle_Reload01_Stereo.
+[2019.08.11-12.27.57:780][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Weapon_AssaultRifle_Reload02_Stereo...
+[2019.08.11-12.27.57:807][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 161112 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload02_Stereo.Weapon_AssaultRifle_Reload02_Stereo.
+[2019.08.11-12.27.57:811][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_RifleRoadieRun.FPP_RifleRoadieRun
+[2019.08.11-12.27.57:811][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_RifleRoadieRun.FPP_RifleRoadieRun) using current/default (AnimCompress_RemoveLinearKeys_56) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.27.57:821][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Animations/FPP_RifleRun.FPP_RifleRun
+[2019.08.11-12.27.57:821][277]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Animations/FPP_RifleRun.FPP_RifleRun) using current/default (AnimCompress_RemoveLinearKeys_57) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.03:316][861]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.11-12.28.40:941][186]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.08.11-12.28.42:373][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LanucherReload.FPP_LanucherReload
+[2019.08.11-12.28.42:374][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LanucherReload) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:461][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LanucherReload.FPP_LanucherReload
+[2019.08.11-12.28.42:462][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LanucherReload) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:530][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LanucherReload.FPP_LanucherReload
+[2019.08.11-12.28.42:531][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LanucherReload) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:589][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LanucherReload.FPP_LanucherReload
+[2019.08.11-12.28.42:590][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LanucherReload) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:656][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherAim.FPP_LauncherAim
+[2019.08.11-12.28.42:657][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherAim) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:688][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherAim.FPP_LauncherAim
+[2019.08.11-12.28.42:689][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherAim) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:727][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherAim.FPP_LauncherAim
+[2019.08.11-12.28.42:727][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherAim) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:789][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherAim.FPP_LauncherAim
+[2019.08.11-12.28.42:789][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherAim) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:852][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherAimFire.FPP_LauncherAimFire
+[2019.08.11-12.28.42:853][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherAimFire) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:858][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherAimFire.FPP_LauncherAimFire
+[2019.08.11-12.28.42:859][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherAimFire) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:871][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherAimFire.FPP_LauncherAimFire
+[2019.08.11-12.28.42:872][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherAimFire) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:883][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherAimFire.FPP_LauncherAimFire
+[2019.08.11-12.28.42:883][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherAimFire) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:896][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherEquip.FPP_LauncherEquip
+[2019.08.11-12.28.42:897][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherEquip) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:908][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherEquip.FPP_LauncherEquip
+[2019.08.11-12.28.42:908][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherEquip) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:922][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherEquip.FPP_LauncherEquip
+[2019.08.11-12.28.42:923][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherEquip) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:939][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherEquip.FPP_LauncherEquip
+[2019.08.11-12.28.42:939][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherEquip) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:957][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherFire.FPP_LauncherFire
+[2019.08.11-12.28.42:958][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherFire) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:963][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherFire.FPP_LauncherFire
+[2019.08.11-12.28.42:963][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherFire) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:971][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherFire.FPP_LauncherFire
+[2019.08.11-12.28.42:972][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherFire) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:982][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherFire.FPP_LauncherFire
+[2019.08.11-12.28.42:982][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherFire) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.42:996][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherIdle.FPP_LauncherIdle
+[2019.08.11-12.28.42:997][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherIdle) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:065][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherIdle.FPP_LauncherIdle
+[2019.08.11-12.28.43:066][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:143][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherIdle.FPP_LauncherIdle
+[2019.08.11-12.28.43:143][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherIdle) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:192][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherIdle.FPP_LauncherIdle
+[2019.08.11-12.28.43:192][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherIdle) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:245][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpEnd.FPP_LauncherJumpEnd
+[2019.08.11-12.28.43:246][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpEnd) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:255][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpEnd.FPP_LauncherJumpEnd
+[2019.08.11-12.28.43:256][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpEnd) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:266][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpEnd.FPP_LauncherJumpEnd
+[2019.08.11-12.28.43:266][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpEnd) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:273][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpEnd.FPP_LauncherJumpEnd
+[2019.08.11-12.28.43:273][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpEnd) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:285][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpLoop.FPP_LauncherJumpLoop
+[2019.08.11-12.28.43:285][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpLoop) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:297][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpLoop.FPP_LauncherJumpLoop
+[2019.08.11-12.28.43:297][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpLoop) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:312][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpLoop.FPP_LauncherJumpLoop
+[2019.08.11-12.28.43:312][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpLoop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:341][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpLoop.FPP_LauncherJumpLoop
+[2019.08.11-12.28.43:341][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpLoop) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:371][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpStart.FPP_LauncherJumpStart
+[2019.08.11-12.28.43:372][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpStart) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:381][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpStart.FPP_LauncherJumpStart
+[2019.08.11-12.28.43:381][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpStart) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:392][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpStart.FPP_LauncherJumpStart
+[2019.08.11-12.28.43:393][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpStart) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:401][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherJumpStart.FPP_LauncherJumpStart
+[2019.08.11-12.28.43:401][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherJumpStart) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:413][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherRoadieRun.FPP_LauncherRoadieRun
+[2019.08.11-12.28.43:413][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherRoadieRun) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:419][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherRoadieRun.FPP_LauncherRoadieRun
+[2019.08.11-12.28.43:420][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherRoadieRun) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:428][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherRoadieRun.FPP_LauncherRoadieRun
+[2019.08.11-12.28.43:429][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherRoadieRun) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:438][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherRoadieRun.FPP_LauncherRoadieRun
+[2019.08.11-12.28.43:439][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherRoadieRun) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:453][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherRun.FPP_LauncherRun
+[2019.08.11-12.28.43:454][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherRun) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:479][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherRun.FPP_LauncherRun
+[2019.08.11-12.28.43:480][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherRun) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:510][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherRun.FPP_LauncherRun
+[2019.08.11-12.28.43:511][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherRun) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:537][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_LauncherRun.FPP_LauncherRun
+[2019.08.11-12.28.43:537][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_LauncherRun) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:566][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleAim.FPP_RifleAim
+[2019.08.11-12.28.43:566][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleAim) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:601][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleAim.FPP_RifleAim
+[2019.08.11-12.28.43:601][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleAim) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:641][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleAim.FPP_RifleAim
+[2019.08.11-12.28.43:641][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleAim) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:667][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleAim.FPP_RifleAim
+[2019.08.11-12.28.43:667][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleAim) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:694][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleAimFire.FPP_RifleAimFire
+[2019.08.11-12.28.43:695][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleAimFire) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:700][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleAimFire.FPP_RifleAimFire
+[2019.08.11-12.28.43:701][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleAimFire) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:709][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleAimFire.FPP_RifleAimFire
+[2019.08.11-12.28.43:709][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleAimFire) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:715][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleAimFire.FPP_RifleAimFire
+[2019.08.11-12.28.43:716][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleAimFire) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:726][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleEquip.FPP_RifleEquip
+[2019.08.11-12.28.43:726][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleEquip) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:743][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleEquip.FPP_RifleEquip
+[2019.08.11-12.28.43:744][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleEquip) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:762][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleEquip.FPP_RifleEquip
+[2019.08.11-12.28.43:762][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleEquip) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:783][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleEquip.FPP_RifleEquip
+[2019.08.11-12.28.43:784][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleEquip) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:807][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleFire.FPP_RifleFire
+[2019.08.11-12.28.43:807][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleFire) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:810][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleFire.FPP_RifleFire
+[2019.08.11-12.28.43:811][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleFire) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:820][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleFire.FPP_RifleFire
+[2019.08.11-12.28.43:820][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleFire) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:825][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleFire.FPP_RifleFire
+[2019.08.11-12.28.43:825][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleFire) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:833][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleIdle.FPP_RifleIdle
+[2019.08.11-12.28.43:833][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleIdle) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:865][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleIdle.FPP_RifleIdle
+[2019.08.11-12.28.43:865][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:901][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleIdle.FPP_RifleIdle
+[2019.08.11-12.28.43:901][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleIdle) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:932][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleIdle.FPP_RifleIdle
+[2019.08.11-12.28.43:932][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleIdle) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:967][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpEnd.FPP_RifleJumpEnd
+[2019.08.11-12.28.43:967][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpEnd) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:973][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpEnd.FPP_RifleJumpEnd
+[2019.08.11-12.28.43:973][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpEnd) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:982][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpEnd.FPP_RifleJumpEnd
+[2019.08.11-12.28.43:982][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpEnd) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:989][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpEnd.FPP_RifleJumpEnd
+[2019.08.11-12.28.43:990][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpEnd) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.43:999][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpLoop.FPP_RifleJumpLoop
+[2019.08.11-12.28.43:999][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpLoop) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:008][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpLoop.FPP_RifleJumpLoop
+[2019.08.11-12.28.44:008][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpLoop) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:022][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpLoop.FPP_RifleJumpLoop
+[2019.08.11-12.28.44:022][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpLoop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:037][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpLoop.FPP_RifleJumpLoop
+[2019.08.11-12.28.44:038][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpLoop) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:055][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpStart.FPP_RifleJumpStart
+[2019.08.11-12.28.44:055][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpStart) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:064][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpStart.FPP_RifleJumpStart
+[2019.08.11-12.28.44:064][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpStart) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:076][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpStart.FPP_RifleJumpStart
+[2019.08.11-12.28.44:077][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpStart) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:084][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleJumpStart.FPP_RifleJumpStart
+[2019.08.11-12.28.44:085][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleJumpStart) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:096][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleReload.FPP_RifleReload
+[2019.08.11-12.28.44:096][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleReload) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:141][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleReload.FPP_RifleReload
+[2019.08.11-12.28.44:142][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleReload) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:191][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleReload.FPP_RifleReload
+[2019.08.11-12.28.44:192][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleReload) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:238][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleReload.FPP_RifleReload
+[2019.08.11-12.28.44:239][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleReload) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:289][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleRoadieRun.FPP_RifleRoadieRun
+[2019.08.11-12.28.44:289][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleRoadieRun) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:294][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleRoadieRun.FPP_RifleRoadieRun
+[2019.08.11-12.28.44:294][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleRoadieRun) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:302][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleRoadieRun.FPP_RifleRoadieRun
+[2019.08.11-12.28.44:302][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleRoadieRun) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:310][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleRoadieRun.FPP_RifleRoadieRun
+[2019.08.11-12.28.44:311][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleRoadieRun) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:320][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleRun.FPP_RifleRun
+[2019.08.11-12.28.44:321][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleRun) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:335][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleRun.FPP_RifleRun
+[2019.08.11-12.28.44:336][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleRun) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:353][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleRun.FPP_RifleRun
+[2019.08.11-12.28.44:353][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleRun) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:366][329]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewFolder/FPP_RifleRun.FPP_RifleRun
+[2019.08.11-12.28.44:366][329]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FPP_RifleRun) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.11-12.28.44:386][329]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.11-12.28.57:665][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_LanucherReload" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LanucherReload.uasset" SILENT=true
+[2019.08.11-12.28.57:693][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_LanucherReloadB93F01944834B47929B71696FA2611D3.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LanucherReload.uasset'
+[2019.08.11-12.28.57:713][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_LauncherAim" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherAim.uasset" SILENT=true
+[2019.08.11-12.28.57:729][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_LauncherAim170F7870463667053D0CEB818C627B82.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherAim.uasset'
+[2019.08.11-12.28.57:746][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_LauncherAimFire" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherAimFire.uasset" SILENT=true
+[2019.08.11-12.28.57:801][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_LauncherAimFire0F2186DB434FA32B1A2891A2FAD438E4.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherAimFire.uasset'
+[2019.08.11-12.28.57:839][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_LauncherEquip" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherEquip.uasset" SILENT=true
+[2019.08.11-12.28.57:868][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_LauncherEquip27323F014D5940EC29368D8679BC8AA8.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherEquip.uasset'
+[2019.08.11-12.28.57:893][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_LauncherFire" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherFire.uasset" SILENT=true
+[2019.08.11-12.28.57:919][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_LauncherFireB05532A542865E2DE4F6449256B58AE0.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherFire.uasset'
+[2019.08.11-12.28.57:948][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_LauncherIdle" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherIdle.uasset" SILENT=true
+[2019.08.11-12.28.57:967][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_LauncherIdleB47AA3AA4263629558CD6CBAF82701E9.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherIdle.uasset'
+[2019.08.11-12.28.57:985][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_LauncherJumpEnd" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherJumpEnd.uasset" SILENT=true
+[2019.08.11-12.28.58:001][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_LauncherJumpEndBFB340EF472B191375DE50A06D01E853.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherJumpEnd.uasset'
+[2019.08.11-12.28.58:017][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_LauncherJumpLoop" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherJumpLoop.uasset" SILENT=true
+[2019.08.11-12.28.58:032][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_LauncherJumpLoopE60C9E6B47C07818F27252814954B14C.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherJumpLoop.uasset'
+[2019.08.11-12.28.58:049][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_LauncherJumpStart" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherJumpStart.uasset" SILENT=true
+[2019.08.11-12.28.58:064][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_LauncherJumpStartE0AA0DF144600FDCAE21AA9BB47DF827.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherJumpStart.uasset'
+[2019.08.11-12.28.58:081][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_LauncherRoadieRun" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherRoadieRun.uasset" SILENT=true
+[2019.08.11-12.28.58:097][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_LauncherRoadieRunE142A3824D6ADBCC4A9B158500C10A01.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherRoadieRun.uasset'
+[2019.08.11-12.28.58:113][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_LauncherRun" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherRun.uasset" SILENT=true
+[2019.08.11-12.28.58:129][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_LauncherRun084EF19C444E2603263CCB97A63BB5DC.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_LauncherRun.uasset'
+[2019.08.11-12.28.58:145][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleAim" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleAim.uasset" SILENT=true
+[2019.08.11-12.28.58:165][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleAim940D628A4DB8D804255155A935A4CD20.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleAim.uasset'
+[2019.08.11-12.28.58:181][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleAimFire" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleAimFire.uasset" SILENT=true
+[2019.08.11-12.28.58:197][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleAimFireF6AE5A0248855EC3200ABEA40DFD75E1.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleAimFire.uasset'
+[2019.08.11-12.28.58:213][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleEquip" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleEquip.uasset" SILENT=true
+[2019.08.11-12.28.58:232][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleEquip281099394BC222AD19616D88FC89809B.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleEquip.uasset'
+[2019.08.11-12.28.58:249][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleFire" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleFire.uasset" SILENT=true
+[2019.08.11-12.28.58:264][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleFire5E2E3DDB44F45A34778BBBBA6160C1AB.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleFire.uasset'
+[2019.08.11-12.28.58:279][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleIdle" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleIdle.uasset" SILENT=true
+[2019.08.11-12.28.58:295][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleIdle1E786DA5440E803F16D6D59453AA18DF.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleIdle.uasset'
+[2019.08.11-12.28.58:311][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleJumpEnd" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleJumpEnd.uasset" SILENT=true
+[2019.08.11-12.28.58:328][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleJumpEnd6FB0C155430222048BEE60876E382C44.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleJumpEnd.uasset'
+[2019.08.11-12.28.58:344][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleJumpLoop" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleJumpLoop.uasset" SILENT=true
+[2019.08.11-12.28.58:359][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleJumpLoopC6A635404FFA24523150119BA3038E0E.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleJumpLoop.uasset'
+[2019.08.11-12.28.58:376][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleJumpStart" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleJumpStart.uasset" SILENT=true
+[2019.08.11-12.28.58:390][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleJumpStartD89351974497457A5009F08254D4C820.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleJumpStart.uasset'
+[2019.08.11-12.28.58:408][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleReload" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleReload.uasset" SILENT=true
+[2019.08.11-12.28.58:424][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleReloadBA41D1F64197B1B7EC976F8BF01762E7.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleReload.uasset'
+[2019.08.11-12.28.58:440][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleRoadieRun" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleRoadieRun.uasset" SILENT=true
+[2019.08.11-12.28.58:457][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleRoadieRun637996124472968FE26165A94B6C6BF2.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleRoadieRun.uasset'
+[2019.08.11-12.28.58:475][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleRun" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleRun.uasset" SILENT=true
+[2019.08.11-12.28.58:492][628]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleRun2839AD064E6A0DB2198AE8A0F9858F2B.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleRun.uasset'
+[2019.08.11-12.28.59:628][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.08.11-12.28.59:649][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.08.11-12.28.59:671][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.08.11-12.28.59:694][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.08.11-12.28.59:714][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.08.11-12.28.59:734][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.08.11-12.28.59:756][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.08.11-12.28.59:776][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.08.11-12.28.59:796][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.08.11-12.28.59:818][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.08.11-12.28.59:841][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.08.11-12.28.59:861][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.08.11-12.28.59:884][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.08.11-12.28.59:905][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.08.11-12.28.59:925][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.08.11-12.28.59:943][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.08.11-12.28.59:965][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.08.11-12.28.59:984][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.08.11-12.29.00:005][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.08.11-12.29.00:028][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.08.11-12.29.00:050][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.08.11-12.29.00:071][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.08.11-12.29.00:094][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.08.11-12.29.00:115][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.08.11-12.29.10:202][778]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.11-12.29.15:270][109]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (34.310 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.11-12.29.25:723][268]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RetargetedAnimations/FPP_LanucherReload.FPP_LanucherReload
+[2019.08.11-12.29.25:731][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-12.29.25:754][268]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.11-12.29.26:026][268]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.11-12.29.40:582][675]LogSlate: Window 'FPP_LanucherReload' being destroyed
+[2019.08.11-12.29.51:658][926]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.08.11-12.29.52:027][926]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 121 classes and 0 folders.
+[2019.08.11-12.29.53:562][926]LogSlate: Took 0.015176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.11-12.30.18:382][893]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.11-12.30.18:582][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.08.11-12.30.47:560][ 27]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.11-12.30.47:808][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: holo_layer_1_5 (AutoDXT, 256X256)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: SightLens_maskA (AutoDXT, 2048X2048)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: SightLens_maskB (AutoDXT, 2048X2048)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: MagGunT1_section (AutoDXT, 4096X4096)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: MagGunT2_section (AutoDXT, 4096X4096)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: MagGunT2_shade (AutoDXT, 4096X4096)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: MagGunT1_shade (AutoDXT, 4096X4096)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: MagGun_Display_EM (AutoDXT, 2048X2048)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: MagGun_02_N (BC5, 4096X4096)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: T_Metal_Metal02_D (AutoDXT, 2048X2048)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: T_ExampleLayers_Metal02_N (BC5, 2048X2048)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: MagGun_Decals (AutoDXT, 512X512)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: MagGun_01_N (BC5, 4096X4096)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: T_Rubber (AutoDXT, 2048X2048)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: T_PaintedMetal02 (AutoDXT, 2048X2048)
+[2019.08.11-12.31.34:376][392]LogTexture: Display: Building textures: T_PaintedMetal01_N (BC5, 2048X2048)
+[2019.08.11-12.31.34:376][392]LogMaterial: Display: Missing cached shader map for material MagGun_SightLens_Mat, compiling. 
+[2019.08.11-12.31.35:882][392]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.08.11-12.31.35:883][392]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.08.11-12.31.35:883][392]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.08.11-12.31.35:883][392]LogMaterial: Display: Missing cached shader map for material MagGun_MatB, compiling. 
+[2019.08.11-12.31.36:036][392]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.08.11-12.31.36:036][392]LogMaterial: Display: Missing cached shader map for material MagGun_MatA, compiling. 
+[2019.08.11-12.31.36:130][392]LogSkeletalMesh: Building Skeletal Mesh Rifle...
+[2019.08.11-12.31.36:183][392]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Weapons/Rifle.Rifle
+[2019.08.11-12.31.37:229][431]LogShaderCompilers: Display: Shaders left to compile 254
+[2019.08.11-12.31.38:169][461]LogShaderCompilers: Display: Shaders left to compile 244
+[2019.08.11-12.31.38:445][473]LogShaderCompilers: Display: Shaders left to compile 234
+[2019.08.11-12.31.38:666][481]LogShaderCompilers: Display: Shaders left to compile 224
+[2019.08.11-12.31.39:310][505]LogShaderCompilers: Display: Shaders left to compile 214
+[2019.08.11-12.31.39:933][534]LogShaderCompilers: Display: Shaders left to compile 204
+[2019.08.11-12.31.41:988][630]LogShaderCompilers: Display: Shaders left to compile 194
+[2019.08.11-12.31.42:322][646]LogShaderCompilers: Display: Shaders left to compile 184
+[2019.08.11-12.31.43:022][674]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.08.11-12.31.43:438][696]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.08.11-12.31.44:527][758]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.08.11-12.31.45:425][807]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.08.11-12.31.45:694][822]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.08.11-12.31.46:437][864]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.08.11-12.31.47:372][907]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.08.11-12.31.47:906][937]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.08.11-12.31.48:525][969]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.08.11-12.31.49:117][998]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.08.11-12.31.49:443][ 11]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.08.11-12.31.49:497][ 13]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.11-12.31.49:796][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.08.11-12.31.51:472][ 80]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.08.11-12.31.52:113][111]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.08.11-12.31.52:427][127]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.08.11-12.31.53:312][174]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.08.11-12.31.53:699][194]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.08.11-12.31.55:148][271]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.08.11-12.31.55:287][279]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.08.11-12.32.07:085][536]LogTexture: Display: Building textures: Launcher_01_N (BC5, 4096X4096)
+[2019.08.11-12.32.07:085][536]LogTexture: Display: Building textures: Launcher_02_N (BC5, 4096X4096)
+[2019.08.11-12.32.07:085][536]LogTexture: Display: Building textures: LauncherT1_section (AutoDXT, 4096X4096)
+[2019.08.11-12.32.07:085][536]LogTexture: Display: Building textures: LauncherT2_section (AutoDXT, 4096X4096)
+[2019.08.11-12.32.07:085][536]LogTexture: Display: Building textures: LauncherT2_shade (AutoDXT, 4096X4096)
+[2019.08.11-12.32.07:085][536]LogTexture: Display: Building textures: LauncherT1_shade (AutoDXT, 4096X4096)
+[2019.08.11-12.32.07:085][536]LogMaterial: Display: Missing cached shader map for material Launcher_MatB, compiling. 
+[2019.08.11-12.32.08:076][536]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.08.11-12.32.08:076][536]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.08.11-12.32.08:076][536]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.08.11-12.32.08:076][536]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.08.11-12.32.08:076][536]LogMaterial: Display: Missing cached shader map for material Launcher_MatA, compiling. 
+[2019.08.11-12.32.08:197][536]LogSkeletalMesh: Building Skeletal Mesh Launcher...
+[2019.08.11-12.32.08:248][536]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Weapons/Launcher.Launcher
+[2019.08.11-12.32.09:433][571]LogShaderCompilers: Display: Shaders left to compile 224
+[2019.08.11-12.32.09:778][581]LogShaderCompilers: Display: Shaders left to compile 214
