@@ -1164,3 +1164,1337 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.11-12.32.08:248][536]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Weapons/Launcher.Launcher
 [2019.08.11-12.32.09:433][571]LogShaderCompilers: Display: Shaders left to compile 224
 [2019.08.11-12.32.09:778][581]LogShaderCompilers: Display: Shaders left to compile 214
+[2019.08.11-12.32.10:471][609]LogShaderCompilers: Display: Shaders left to compile 204
+[2019.08.11-12.32.12:391][680]LogShaderCompilers: Display: Shaders left to compile 194
+[2019.08.11-12.32.12:699][692]LogShaderCompilers: Display: Shaders left to compile 184
+[2019.08.11-12.32.12:859][698]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.08.11-12.32.14:451][759]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.08.11-12.32.15:229][788]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.08.11-12.32.15:763][805]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.08.11-12.32.16:690][841]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.08.11-12.32.17:178][859]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.08.11-12.32.18:116][897]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.08.11-12.32.18:931][928]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.08.11-12.32.19:418][946]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.08.11-12.32.19:949][966]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.08.11-12.32.20:023][968]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.08.11-12.32.22:147][ 48]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.08.11-12.32.22:996][ 80]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.08.11-12.32.23:390][ 95]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.08.11-12.32.24:270][128]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.08.11-12.32.24:447][135]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.08.11-12.32.26:219][201]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.08.11-12.32.26:500][212]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.08.11-12.35.00:777][913]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.11-12.35.00:983][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.08.11-12.36.20:103][ 31]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.11-12.36.20:297][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.08.11-12.36.21:251][ 64]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonCharacter6F5120CB4E45BB3E98B2A8A6191FCF85.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.08.11-12.36.47:782][144]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.11-12.36.47:962][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.08.11-12.36.48:670][167]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonCharacterC07FA20E43E035B12B493CB5D49F9F11.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.08.11-12.36.51:561][438]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-12.36.51:586][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-12.36.51:600][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-12.36.51:600][438]PIE: New page: PIE session: FirstPersonExampleMap (Aug 11, 2019, 4:36:51 PM)
+[2019.08.11-12.36.51:600][438]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.08.11-12.36.51:629][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028063s)
+[2019.08.11-12.36.51:629][438]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.08.11-12.36.51:629][438]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2019.08.11-12.36.51:630][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.029134s)
+[2019.08.11-12.36.51:668][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.08.11-12.36.51:733][438]LogInit: XAudio2 using 'Altavoces (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.11-12.36.51:743][438]LogInit: FAudioDevice initialized.
+[2019.08.11-12.36.51:775][438]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.11-12.36.51:781][438]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.08.11-14.36.51
+[2019.08.11-12.36.51:782][438]LogWorld: Bringing up level for play took: 0.005766
+[2019.08.11-12.36.51:797][438]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.839
+[2019.08.11-12.36.51:797][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-12.36.53:791][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-12.36.53:792][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-12.36.53:825][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-12.36.53:826][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-12.36.53:859][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-12.36.53:863][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.08.11-12.36.53:900][673]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.08.11-12.36.58:737][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-12.37.25:978][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.08.11-12.37.26:370][ 31]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonExampleMap_Auto2186FE80E4E67BF17EE68B7BBEE368330.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.08.11-12.37.26:373][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.426
+[2019.08.11-12.37.26:373][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.426
+[2019.08.11-12.37.26:388][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton] ([1] browsable assets)...
+[2019.08.11-12.37.26:389][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton]
+[2019.08.11-12.37.26:404][ 31]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/SK_Mannequin_Arms_Skeleton_Auto292F0878643C5EEA8C37444B3667594FF.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton_Auto2.uasset'
+[2019.08.11-12.37.26:405][ 31]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms] ([1] browsable assets)...
+[2019.08.11-12.37.26:423][ 31]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms]
+[2019.08.11-12.37.26:423][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms]
+[2019.08.11-12.37.26:517][ 31]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/SK_Mannequin_Arms_Auto25C1DF2B54A0147491DC075B782A00EFB.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Auto2.uasset'
+[2019.08.11-12.37.26:518][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/HeroFPP/HeroFPP_Skeleton] ([1] browsable assets)...
+[2019.08.11-12.37.26:518][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/HeroFPP/HeroFPP_Skeleton]
+[2019.08.11-12.37.26:534][ 31]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/HeroFPP_Skeleton_Auto26CEC5F3948E44E6580901F97C5097BF5.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/Characters/HeroFPP/HeroFPP_Skeleton_Auto2.uasset'
+[2019.08.11-12.37.26:535][ 31]LogFileHelpers: Auto-saving content packages took 0.161
+[2019.08.11-12.38.01:566][473]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+[2019.08.11-12.38.01:587][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-12.38.01:946][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.11-14.13.41:414][ 81]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (Razer ManO'War 7.1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-14.20.56:748][423]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.11-14.22.27:310][906]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.22.27:623][906]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2019.08.11-14.22.28:201][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-14.22.28:287][951]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBP423F50334D0FA4D575175AA8A2837E83.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-14.25.23:338][515]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.25.23:636][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.08.11-14.25.59:757][182]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.25.59:942][182]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0263
+[2019.08.11-14.25.59:943][182]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0278
+[2019.08.11-14.25.59:943][182]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0263
+[2019.08.11-14.25.59:944][182]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0278
+[2019.08.11-14.25.59:998][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.08.11-14.26.00:067][184]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0263
+[2019.08.11-14.26.00:067][184]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0278
+[2019.08.11-14.26.00:080][185]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0263
+[2019.08.11-14.26.00:080][185]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0278
+[2019.08.11-14.26.00:093][186]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0263
+[2019.08.11-14.26.00:094][186]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0278
+[2019.08.11-14.26.00:106][187]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0263
+[2019.08.11-14.26.00:106][187]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0278
+[2019.08.11-14.26.00:118][188]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0263
+[2019.08.11-14.26.00:119][188]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0278
+[2019.08.11-14.26.00:129][189]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0263
+[2019.08.11-14.26.00:129][189]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0278
+[2019.08.11-14.26.00:141][190]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_3
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0263
+[2019.08.11-14.26.00:819][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-14.26.00:890][250]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBPF7A41BD247E543DEE36A9F98049A700C.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-14.28.44:661][518]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.28.44:817][518]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0312
+[2019.08.11-14.28.44:817][518]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0327
+[2019.08.11-14.28.44:818][518]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0312
+[2019.08.11-14.28.44:818][518]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0327
+[2019.08.11-14.28.44:861][518]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.08.11-14.28.44:871][518]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0312
+[2019.08.11-14.28.44:871][518]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0327
+[2019.08.11-14.28.44:905][519]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0312
+[2019.08.11-14.28.44:905][519]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0327
+[2019.08.11-14.28.44:926][520]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0312
+[2019.08.11-14.28.44:926][520]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0327
+[2019.08.11-14.28.44:939][521]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0312
+[2019.08.11-14.28.44:939][521]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0327
+[2019.08.11-14.28.44:960][522]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0312
+[2019.08.11-14.28.44:960][522]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0327
+[2019.08.11-14.28.44:981][523]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0312
+[2019.08.11-14.28.44:981][523]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0327
+[2019.08.11-14.28.44:998][524]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_4
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0312
+[2019.08.11-14.28.45:506][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-14.28.45:589][565]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBPC80A9D014E4C5D7A0A90718065F3EA73.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-14.30.07:923][214]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.30.08:077][214]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0363
+[2019.08.11-14.30.08:077][214]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0378
+[2019.08.11-14.30.08:077][214]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0363
+[2019.08.11-14.30.08:077][214]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0378
+[2019.08.11-14.30.08:111][214]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.08.11-14.30.08:125][214]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0363
+[2019.08.11-14.30.08:125][214]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0378
+[2019.08.11-14.30.08:150][215]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0363
+[2019.08.11-14.30.08:150][215]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0378
+[2019.08.11-14.30.08:163][216]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0363
+[2019.08.11-14.30.08:163][216]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0378
+[2019.08.11-14.30.08:176][217]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0363
+[2019.08.11-14.30.08:176][217]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0378
+[2019.08.11-14.30.08:186][218]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0363
+[2019.08.11-14.30.08:186][218]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0378
+[2019.08.11-14.30.08:197][219]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0363
+[2019.08.11-14.30.08:197][219]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0378
+[2019.08.11-14.30.08:208][220]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_5
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0363
+[2019.08.11-14.30.08:560][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-14.30.08:644][251]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBP4B391806427F332AC2115A8E82646818.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-14.30.45:048][562]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2019.08.11-14.30.47:431][836]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.11-14.31.50:818][153]LogEditorTransaction: Undo Paste clipboard contents
+[2019.08.11-14.31.50:912][153]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-14.33.14:293][251]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.33.14:451][251]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03B5
+[2019.08.11-14.33.14:451][251]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03CA
+[2019.08.11-14.33.14:451][251]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03B5
+[2019.08.11-14.33.14:451][251]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03CA
+[2019.08.11-14.33.14:491][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.08.11-14.33.14:503][251]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03B5
+[2019.08.11-14.33.14:503][251]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03CA
+[2019.08.11-14.33.14:534][252]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03B5
+[2019.08.11-14.33.14:535][252]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03CA
+[2019.08.11-14.33.14:552][253]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03B5
+[2019.08.11-14.33.14:552][253]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03CA
+[2019.08.11-14.33.14:563][254]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03B5
+[2019.08.11-14.33.14:564][254]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03CA
+[2019.08.11-14.33.14:575][255]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03B5
+[2019.08.11-14.33.14:575][255]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03CA
+[2019.08.11-14.33.14:587][256]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03B5
+[2019.08.11-14.33.14:587][256]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03CA
+[2019.08.11-14.33.14:599][257]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_6
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:03B5
+[2019.08.11-14.33.16:129][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-14.33.16:220][393]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBPD55090E84B62635BE5E7EA8026F119B4.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-14.34.18:701][ 72]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.34.18:861][ 72]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.18:861][ 72]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.18:861][ 72]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.18:861][ 72]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.18:898][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.08.11-14.34.18:912][ 72]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.18:912][ 72]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.18:934][ 73]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.18:934][ 73]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.18:946][ 74]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.18:946][ 74]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.18:956][ 75]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.18:956][ 75]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.18:967][ 76]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.18:968][ 76]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.18:978][ 77]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.18:978][ 77]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.18:987][ 78]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_7
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.19:298][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-14.34.19:397][109]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBP463B24C941B6E47439CA0CB1E7E083D8.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-14.34.39:177][900]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.34.39:334][900]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.39:334][900]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.39:335][900]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.39:335][900]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.39:371][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.08.11-14.34.39:379][900]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.39:379][900]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.39:406][901]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.39:406][901]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.39:421][902]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.39:421][902]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.39:439][903]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.39:439][903]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.39:451][904]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.39:451][904]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.39:465][905]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.39:465][905]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.34.39:479][906]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_8
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.34.40:044][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-14.34.40:143][957]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBPA3A0F6D045BACAFCB3BE92BB52F2FD4B.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-14.35.17:264][571]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.35.17:420][571]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.35.17:420][571]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.35.17:421][571]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.35.17:421][571]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.35.17:459][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.08.11-14.35.17:471][571]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.35.17:471][571]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.35.17:494][572]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.35.17:494][572]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.35.17:506][573]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.35.17:506][573]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.35.17:517][574]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.35.17:517][574]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.35.17:527][575]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.35.17:527][575]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.35.17:537][576]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.35.17:537][576]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0448
+[2019.08.11-14.35.17:546][577]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_9
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0433
+[2019.08.11-14.35.17:835][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-14.35.17:938][604]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBPFE54F5234AF67DB27C6853B80DFAC700.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-14.36.52:238][926]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.36.52:275][926]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] ICE: Player node  Play FirstPerson_JumpStart  was not processed prior to handling a transition getter  FirstPerson_JumpStart Asset  that used it
+[2019.08.11-14.36.52:279][926]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  FirstPerson_JumpStart Asset
+[2019.08.11-14.36.52:279][926]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  FirstPerson_JumpStart Asset
+[2019.08.11-14.36.52:463][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.08.11-14.36.52:471][926]LogBlueprint: Warning: [Compiler FirstPerson_AnimBP] [0135.04] Compile of FirstPerson_AnimBP failed. 3 Fatal Issue(s) 0 Warning(s) [in 233 ms] (/Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2019.08.11-14.36.52:981][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-14.36.53:101][964]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBP2D52821047CF51C527375787812DA39F.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-14.37.15:957][999]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.37.15:973][999]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] ICE: Player node  Play FirstPerson_JumpStart  was not processed prior to handling a transition getter  FirstPerson_JumpStart Asset  that used it
+[2019.08.11-14.37.15:976][999]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  FirstPerson_JumpStart Asset
+[2019.08.11-14.37.15:977][999]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  FirstPerson_JumpStart Asset
+[2019.08.11-14.37.16:144][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.08.11-14.37.16:152][999]LogBlueprint: Warning: [Compiler FirstPerson_AnimBP] [0158.72] Compile of FirstPerson_AnimBP failed. 3 Fatal Issue(s) 0 Warning(s) [in 194 ms] (/Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2019.08.11-14.38.07:205][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.08.11-14.38.07:206][744]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.034
+[2019.08.11-14.38.07:207][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Animations/FirstPerson_AnimBP] ([1] browsable assets)...
+[2019.08.11-14.38.07:220][744]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP]
+[2019.08.11-14.38.07:220][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Animations/FirstPerson_AnimBP]
+[2019.08.11-14.38.07:327][744]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBP_Auto3693195DE417F817E5300AEA0BA6F10F8.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/FirstPerson/Animations/FirstPerson_AnimBP_Auto3.uasset'
+[2019.08.11-14.38.07:328][744]LogFileHelpers: Auto-saving content packages took 0.121
+[2019.08.11-14.38.51:400][742]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.38.51:415][742]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] ICE: Player node  Play FirstPerson_JumpStart  was not processed prior to handling a transition getter  FirstPerson_JumpStart Asset  that used it
+[2019.08.11-14.38.51:419][742]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  FirstPerson_JumpStart Asset
+[2019.08.11-14.38.51:419][742]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  FirstPerson_JumpStart Asset
+[2019.08.11-14.38.51:592][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.08.11-14.38.51:599][742]LogBlueprint: Warning: [Compiler FirstPerson_AnimBP] [0254.17] Compile of FirstPerson_AnimBP failed. 3 Fatal Issue(s) 0 Warning(s) [in 199 ms] (/Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2019.08.11-14.40.23:551][781]LogEditorTransaction: Undo Paste clipboard contents
+[2019.08.11-14.40.23:640][781]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-14.41.16:286][976]LogEditorTransaction: Undo Paste clipboard contents
+[2019.08.11-14.41.16:385][976]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-14.42.33:821][504]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.42.33:839][504]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] ICE: Player node  Play FirstPerson_JumpStart  was not processed prior to handling a transition getter  FirstPerson_JumpStart Asset  that used it
+[2019.08.11-14.42.33:839][504]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] ICE: Player node  Play FirstPerson_JumpEnd  was not processed prior to handling a transition getter  FirstPerson_JumpEnd Asset  that used it
+[2019.08.11-14.42.33:843][504]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  FirstPerson_JumpStart Asset
+[2019.08.11-14.42.33:843][504]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  FirstPerson_JumpEnd Asset
+[2019.08.11-14.42.33:843][504]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  FirstPerson_JumpEnd Asset
+[2019.08.11-14.42.33:843][504]LogBlueprint: Error: [Compiler FirstPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  FirstPerson_JumpStart Asset
+[2019.08.11-14.42.34:042][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.08.11-14.42.34:051][504]LogBlueprint: Warning: [Compiler FirstPerson_AnimBP] [0476.62] Compile of FirstPerson_AnimBP failed. 6 Fatal Issue(s) 0 Warning(s) [in 230 ms] (/Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2019.08.11-14.48.00:060][690]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.48.00:235][690]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:066C
+[2019.08.11-14.48.00:235][690]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0681
+[2019.08.11-14.48.00:236][690]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:066C
+[2019.08.11-14.48.00:236][690]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0681
+[2019.08.11-14.48.00:277][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.08.11-14.48.00:287][690]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:066C
+[2019.08.11-14.48.00:287][690]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0681
+[2019.08.11-14.48.00:316][691]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:066C
+[2019.08.11-14.48.00:316][691]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0681
+[2019.08.11-14.48.00:329][692]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:066C
+[2019.08.11-14.48.00:330][692]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0681
+[2019.08.11-14.48.00:344][693]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:066C
+[2019.08.11-14.48.00:345][693]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0681
+[2019.08.11-14.48.00:358][694]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:066C
+[2019.08.11-14.48.00:358][694]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0681
+[2019.08.11-14.48.00:370][695]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:066C
+[2019.08.11-14.48.00:370][695]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0681
+[2019.08.11-14.48.00:383][696]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_14
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:066C
+[2019.08.11-14.51.15:327][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.08.11-14.51.15:327][639]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.044
+[2019.08.11-14.51.15:329][639]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Animations/FirstPerson_AnimBP] ([1] browsable assets)...
+[2019.08.11-14.51.15:344][639]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP]
+[2019.08.11-14.51.15:344][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Animations/FirstPerson_AnimBP]
+[2019.08.11-14.51.15:525][639]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBP_Auto4E2A4719141D2700765F0868A110C52ED.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/FirstPerson/Animations/FirstPerson_AnimBP_Auto4.uasset'
+[2019.08.11-14.51.15:526][639]LogFileHelpers: Auto-saving content packages took 0.198
+[2019.08.11-14.52.36:534][185]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.52.36:602][185]LogBlueprint: Warning: [Compiler FirstPerson_AnimBP] Transform (Modify) Bone  - You must pick a bone to modify
+[2019.08.11-14.52.36:603][185]LogBlueprint: Warning: [Compiler FirstPerson_AnimBP] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2019.08.11-14.52.36:872][185]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.52.36:872][185]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.52.36:872][185]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.52.36:910][185]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.52.36:910][185]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.52.36:910][185]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.52.36:961][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.08.11-14.52.36:970][185]LogBlueprint: Warning: [Compiler FirstPerson_AnimBP] [1079.54] Compile of FirstPerson_AnimBP successful, but with 2 Warning(s) [in 435 ms] (/Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2019.08.11-14.52.37:019][187]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.52.37:019][187]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.52.37:019][187]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.52.37:031][188]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.52.37:031][188]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.52.37:031][188]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.52.37:044][189]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.52.37:044][189]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.52.37:044][189]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.52.37:054][190]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.52.37:055][190]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_15
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.53.58:164][541]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-14.53.58:176][541]LogBlueprint: Warning: [Compiler FirstPerson_AnimBP] Transform (Modify) Bone - Bone: pelvis  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2019.08.11-14.53.58:359][541]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.53.58:359][541]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.53.58:359][541]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.53.58:359][541]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.53.58:359][541]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.53.58:359][541]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.53.58:394][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.08.11-14.53.58:403][541]LogBlueprint: Warning: [Compiler FirstPerson_AnimBP] [1160.97] Compile of FirstPerson_AnimBP successful, but with 1 Warning(s) [in 238 ms] (/Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP)
+[2019.08.11-14.53.58:467][542]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.53.58:468][542]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.53.58:468][542]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.53.58:486][543]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.53.58:486][543]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.53.58:486][543]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.53.58:500][544]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.53.58:500][544]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.53.58:500][544]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.53.58:513][545]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.53.58:513][545]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_16
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.54.17:713][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-14.54.35:788][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-14.58.02:246][186]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-14.58.02:257][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-14.58.02:257][186]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.11-14.58.02:258][186]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2019.08.11-14.58.02:436][186]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.58.02:436][186]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.58.02:436][186]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.58.02:437][186]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-14.58.02:437][186]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-14.58.02:437][186]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-14.58.02:484][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.08.11-14.58.02:485][186]LogPlayLevel: PlayLevel: Blueprint regeneration took 227 ms (1 blueprints)
+[2019.08.11-14.58.02:485][186]PIE: New page: PIE session: FirstPersonExampleMap (Aug 11, 2019, 6:58:02 PM)
+[2019.08.11-14.58.02:485][186]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.08.11-14.58.02:526][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040813s)
+[2019.08.11-14.58.02:527][186]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.08.11-14.58.02:527][186]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2019.08.11-14.58.02:527][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.042057s)
+[2019.08.11-14.58.02:559][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.08.11-14.58.02:621][186]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (Razer ManO'War 7.1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-14.58.02:665][186]LogInit: FAudioDevice initialized.
+[2019.08.11-14.58.02:696][186]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.11-14.58.02:699][186]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.08.11-16.58.02
+[2019.08.11-14.58.02:699][186]LogWorld: Bringing up level for play took: 0.002169
+[2019.08.11-14.58.02:712][186]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.245
+[2019.08.11-14.58.02:712][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-14.58.05:743][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-14.58.05:743][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-14.58.05:795][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-14.58.05:796][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-14.58.05:832][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-14.58.05:836][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.08.11-14.58.05:858][545]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.08.11-15.01.19:159][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.08.11-15.01.19:159][263]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.033
+[2019.08.11-15.01.19:161][263]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Animations/FirstPerson_AnimBP] ([1] browsable assets)...
+[2019.08.11-15.01.19:188][263]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP]
+[2019.08.11-15.01.19:188][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Animations/FirstPerson_AnimBP]
+[2019.08.11-15.01.19:351][263]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBP_Auto533171FC440C8E8E0FDCFFC963228EB5E.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/FirstPerson/Animations/FirstPerson_AnimBP_Auto5.uasset'
+[2019.08.11-15.01.19:352][263]LogFileHelpers: Auto-saving content packages took 0.192
+[2019.08.11-15.05.23:040][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.11-15.05.24:995][115]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-15.05.24:995][115]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-15.05.24:995][115]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-15.05.25:007][116]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-15.05.25:007][116]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-15.05.25:007][116]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-15.05.25:018][117]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-15.05.25:018][117]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-15.05.25:018][117]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:07AA
+[2019.08.11-15.05.25:035][118]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0251
+[2019.08.11-15.05.25:035][118]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_17
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0795
+[2019.08.11-15.05.47:464][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-15.05.47:506][844]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.11-15.05.47:531][844]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.08.11-15.05.47:721][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.08.11-15.05.47:742][844]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [1870.31] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 235 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2019.08.11-15.05.53:617][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-15.05.59:943][821]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.11-15.06.00:155][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.08.11-15.06.41:032][915]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2019.08.11-15.06.41:040][915]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-15.06.41:067][915]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.11-15.06.44:156][174]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2019.08.11-15.06.44:167][174]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-15.06.44:192][174]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.11-15.07.55:756][676]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+[2019.08.11-15.07.55:781][676]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.11-15.07.55:801][676]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.11-15.07.56:268][676]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.11-15.08.34:701][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-15.08.35:240][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FPP_RifleRoadieRun" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleRoadieRun.uasset" SILENT=true
+[2019.08.11-15.08.35:259][381]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FPP_RifleRoadieRun9E839BBC484367E46CF8B4BF3D1CBABF.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FPP_RifleRoadieRun.uasset'
+[2019.08.11-15.08.43:243][607]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.11-15.08.43:279][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-15.08.43:279][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.11-15.08.43:279][607]PIE: New page: PIE session: FirstPersonExampleMap (Aug 11, 2019, 7:08:43 PM)
+[2019.08.11-15.08.43:279][607]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.08.11-15.08.43:293][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013125s)
+[2019.08.11-15.08.43:293][607]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.08.11-15.08.43:294][607]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2019.08.11-15.08.43:294][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014196s)
+[2019.08.11-15.08.43:337][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.08.11-15.08.43:399][607]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (Razer ManO'War 7.1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.11-15.08.43:443][607]LogInit: FAudioDevice initialized.
+[2019.08.11-15.08.43:474][607]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.11-15.08.43:477][607]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.08.11-17.08.43
+[2019.08.11-15.08.43:477][607]LogWorld: Bringing up level for play took: 0.002142
+[2019.08.11-15.08.43:490][607]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.534
+[2019.08.11-15.08.43:491][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-15.08.59:559][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-15.08.59:559][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-15.08.59:590][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.11-15.08.59:591][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.11-15.08.59:627][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.11-15.08.59:632][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.08.11-15.08.59:673][526]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.08.11-15.09.15:801][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-15.09.16:948][908]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/SK_Mannequin_Arms531FF0A44A0E2819F73EA1946376972C.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset'
+[2019.08.11-15.09.19:182][ 87]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/SK_Mannequin_Arms_Skeleton2E699EEA48083F0029EE03B94DFB93AD.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2019.08.11-15.09.21:257][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-15.09.21:424][233]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBP49389D384AA25950E8CAA4B5170D26AC.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-15.11.28:647][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-15.11.28:799][761]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBP5DBDC213479834301510B39086E1629E.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-15.11.58:266][488]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.08.11-15.12.25:945][579]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.08.11-15.12.26:058][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.08.11-15.12.26:495][580]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonExampleMap_Auto6AD61239344138D5944C04D8050F02B80.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2019.08.11-15.12.26:501][580]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.481
+[2019.08.11-15.12.26:501][580]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.481
+[2019.08.11-15.12.26:503][580]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.08.11-15.12.26:516][580]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.08.11-15.12.26:516][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.08.11-15.12.26:671][580]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonCharacter_Auto6CD4B9011498CEE9CEFB2F282BEE2C4C1.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset'
+[2019.08.11-15.12.26:672][580]LogFileHelpers: Auto-saving content packages took 0.170
+[2019.08.11-15.12.34:125][305]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/RetargetedAnimations/FireRifle.FireRifle
+[2019.08.11-15.13.24:054][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FireRifle" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FireRifle.uasset" SILENT=true
+[2019.08.11-15.13.24:070][411]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FireRifleEC0CA50F4A4FA3B5F5F1C1A5326B42B6.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FireRifle.uasset'
+[2019.08.11-15.13.49:650][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FireRifle" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FireRifle.uasset" SILENT=true
+[2019.08.11-15.13.49:664][289]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FireRifleED42FC48492CDE3E062737B527F738E3.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FireRifle.uasset'
+[2019.08.11-15.13.53:488][583]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.11-15.13.53:701][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.08.11-15.13.54:638][644]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonCharacter00CEFF1C4107A8D9648F37ABCC6B6736.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.08.11-15.14.02:282][189]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.08.11-15.14.12:873][244]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/RetargetedAnimations/FireLauncher.FireLauncher
+[2019.08.11-15.14.22:198][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FireLauncher" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FireLauncher.uasset" SILENT=true
+[2019.08.11-15.14.22:213][789]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FireLauncherD1E473E74A8D82F93D75008166EBD63F.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FireLauncher.uasset'
+[2019.08.11-15.14.29:565][284]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.08.11-15.14.40:272][434]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/RetargetedAnimations/FireRifleAiming.FireRifleAiming
+[2019.08.11-15.14.46:236][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FireRifleAiming" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FireRifleAiming.uasset" SILENT=true
+[2019.08.11-15.14.46:253][669]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FireRifleAimingE0F83E844176F8DB16984B80A42E841B.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FireRifleAiming.uasset'
+[2019.08.11-15.14.56:731][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.11-15.15.01:962][404]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.08.11-15.15.12:751][596]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/RetargetedAnimations/FireLauncherAiming.FireLauncherAiming
+[2019.08.11-15.15.20:156][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RetargetedAnimations/FireLauncherAiming" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FireLauncherAiming.uasset" SILENT=true
+[2019.08.11-15.15.20:172][199]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FireLauncherAiming36FF9EA4433A4297AF9132BD80599753.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/RetargetedAnimations/FireLauncherAiming.uasset'
+[2019.08.11-15.22.26:885][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.08.11-15.22.27:094][ 44]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonExampleMap_Auto7CD308F994BC8C1C9B52FD5A96C2813BD.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2019.08.11-15.22.27:097][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.249
+[2019.08.11-15.22.27:097][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2019.08.11-15.22.27:099][ 44]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Animations/FirstPerson_AnimBP] ([1] browsable assets)...
+[2019.08.11-15.22.27:112][ 44]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP]
+[2019.08.11-15.22.27:112][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Animations/FirstPerson_AnimBP]
+[2019.08.11-15.22.27:274][ 44]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBP_Auto7F01A0F0E4AB4DE0C319DBE94EFACADD1.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Saved/Autosaves/Game/FirstPerson/Animations/FirstPerson_AnimBP_Auto7.uasset'
+[2019.08.11-15.22.27:275][ 44]LogFileHelpers: Auto-saving content packages took 0.177
+[2019.08.11-15.23.27:398][844]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-15.23.27:574][844]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.23.27:574][844]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.23.27:574][844]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05BC
+[2019.08.11-15.23.27:574][844]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.23.27:574][844]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.23.27:574][844]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05BC
+[2019.08.11-15.23.27:615][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.08.11-15.23.27:700][846]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.23.27:700][846]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.23.27:700][846]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05BC
+[2019.08.11-15.23.27:712][847]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.23.27:712][847]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.23.27:712][847]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05BC
+[2019.08.11-15.23.27:723][848]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.23.27:723][848]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.23.27:723][848]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05BC
+[2019.08.11-15.23.27:740][849]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.23.27:740][849]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_18
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.23.28:213][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-15.23.28:375][888]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBP9EF91885439C9E091D910484194456A1.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-15.24.00:224][603]BlueprintLog: New page: Compile FirstPerson_AnimBP
+[2019.08.11-15.24.00:417][603]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.24.00:417][603]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.24.00:417][603]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05BC
+[2019.08.11-15.24.00:417][603]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.24.00:417][603]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.24.00:417][603]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05BC
+[2019.08.11-15.24.00:461][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.08.11-15.24.00:546][605]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.24.00:546][605]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.24.00:546][605]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05BC
+[2019.08.11-15.24.00:557][606]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.24.00:557][606]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.24.00:557][606]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05BC
+[2019.08.11-15.24.00:567][607]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.24.00:567][607]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.24.00:567][607]LogScript: Warning: Accessed None reading structure WeaponType_2_0A0A41D6448FD1112CB66C98906C7493
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05BC
+[2019.08.11-15.24.00:580][608]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:0063
+[2019.08.11-15.24.00:580][608]LogScript: Warning: Accessed None trying to read property FirstPersonCharacter
+	FirstPerson_AnimBP_C /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FirstPerson_AnimBP_C_19
+	Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP:05A7
+[2019.08.11-15.24.00:805][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/FirstPerson_AnimBP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" SILENT=true
+[2019.08.11-15.24.00:962][624]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPerson_AnimBPF02413334BA70E7966E52FA50D168D6E.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset'
+[2019.08.11-15.24.35:929][  9]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.08.11-15.24.36:162][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.08.11-15.24.37:048][ 50]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonCharacter0E4D9618455DC9D0051FC8890CE92F4F.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.08.11-15.24.39:265][225]LogSlate: Window 'FireLauncherAiming' being destroyed
+[2019.08.11-15.24.39:271][225]LogSlate: Window 'FireLauncherAiming' being destroyed
+[2019.08.11-15.24.41:673][360]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.08.11-15.24.43:952][360]LogSlate: Window 'Save Content' being destroyed
+[2019.08.11-15.24.43:977][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HeroFPP/HeroFPP" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Characters/HeroFPP/HeroFPP.uasset" SILENT=true
+[2019.08.11-15.24.44:010][360]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/HeroFPPE9860E4047D2780402CA25B3918145F9.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Characters/HeroFPP/HeroFPP.uasset'
+[2019.08.11-15.24.44:021][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/HeroFPP/HeroFPP_Skeleton" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Characters/HeroFPP/HeroFPP_Skeleton.uasset" SILENT=true
+[2019.08.11-15.24.44:036][360]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/HeroFPP_Skeleton00EC1CD24C7D27F9867B7ABB6C4B69EC.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Characters/HeroFPP/HeroFPP_Skeleton.uasset'
+[2019.08.11-15.24.44:074][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.08.11-15.24.44:290][360]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonExampleMapFE63B2354B4F7E61479931AA74CB4106.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.08.11-15.24.44:413][360]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.368
+[2019.08.11-15.24.44:616][360]LogSlate: Window 'COD - Unreal Editor' being destroyed
+[2019.08.11-15.24.44:627][360]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.11-15.24.44:934][361]Cmd: QUIT_EDITOR
+[2019.08.11-15.24.45:699][361]LogExit: Preparing to exit.
+[2019.08.11-15.24.46:346][361]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.08.11-15.24.46:753][361]LogExit: Editor shut down
+[2019.08.11-15.24.46:755][361]LogExit: Transaction tracking system shut down
+[2019.08.11-15.24.48:976][361]LogExit: Object subsystem successfully closed.
+[2019.08.11-15.24.49:477][361]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.11-15.24.49:505][361]LogD3D11RHI: Shutdown
+[2019.08.11-15.24.49:505][361]LogD3D11RHI: CleanupD3DDevice
+[2019.08.11-15.24.49:544][361]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.11-15.24.49:544][361]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.11-15.24.49:563][361]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.11-15.24.49:563][361]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.11-15.24.49:563][361]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.11-15.24.49:563][361]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.11-15.24.49:727][361]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.11-15.24.53:064][361]LogModuleManager: Shutting down and abandoning module BlueprintGraph (656)
+[2019.08.11-15.24.53:065][361]LogModuleManager: Shutting down and abandoning module PinnedCommandList (654)
+[2019.08.11-15.24.53:065][361]LogModuleManager: Shutting down and abandoning module SkeletonEditor (652)
+[2019.08.11-15.24.53:065][361]LogModuleManager: Shutting down and abandoning module AnimationEditor (650)
+[2019.08.11-15.24.53:065][361]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (648)
+[2019.08.11-15.24.53:065][361]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (646)
+[2019.08.11-15.24.53:065][361]LogModuleManager: Shutting down and abandoning module Voice (644)
+[2019.08.11-15.24.53:079][361]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.08.11-15.24.53:079][361]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.08.11-15.24.53:079][361]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.08.11-15.24.53:108][361]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.08.11-15.24.53:108][361]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.08.11-15.24.53:108][361]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.08.11-15.24.53:114][361]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.08.11-15.24.53:128][361]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.08.11-15.24.53:134][361]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.08.11-15.24.53:152][361]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.08.11-15.24.53:164][361]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.08.11-15.24.53:164][361]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.08.11-15.24.53:164][361]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.08.11-15.24.53:164][361]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.08.11-15.24.53:164][361]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.08.11-15.24.53:164][361]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.08.11-15.24.53:287][361]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.08.11-15.24.53:303][361]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.08.11-15.24.53:312][361]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.08.11-15.24.53:312][361]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.08.11-15.24.53:320][361]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.08.11-15.24.53:343][361]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.08.11-15.24.53:372][361]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.08.11-15.24.53:372][361]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.08.11-15.24.53:404][361]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.08.11-15.24.53:766][361]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.08.11-15.24.53:766][361]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.08.11-15.24.53:766][361]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.08.11-15.24.53:766][361]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.08.11-15.24.53:766][361]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.08.11-15.24.53:807][361]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.08.11-15.24.53:822][361]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.08.11-15.24.53:867][361]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.08.11-15.24.53:868][361]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.08.11-15.24.53:868][361]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.08.11-15.24.53:868][361]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.08.11-15.24.53:879][361]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.08.11-15.24.53:879][361]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.08.11-15.24.53:879][361]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.08.11-15.24.53:897][361]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.08.11-15.24.53:897][361]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.08.11-15.24.53:920][361]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.08.11-15.24.53:943][361]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.08.11-15.24.53:970][361]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.08.11-15.24.53:970][361]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.08.11-15.24.53:970][361]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.08.11-15.24.53:970][361]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.08.11-15.24.53:970][361]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.08.11-15.24.54:326][361]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.08.11-15.24.54:326][361]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.08.11-15.24.54:326][361]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.08.11-15.24.54:326][361]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.08.11-15.24.54:326][361]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.08.11-15.24.54:326][361]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.08.11-15.24.54:433][361]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.08.11-15.24.54:447][361]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.08.11-15.24.54:459][361]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.08.11-15.24.54:494][361]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.08.11-15.24.54:494][361]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.08.11-15.24.54:502][361]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.08.11-15.24.54:511][361]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.08.11-15.24.54:521][361]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.08.11-15.24.54:521][361]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.08.11-15.24.54:521][361]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.08.11-15.24.54:522][361]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.08.11-15.24.54:523][361]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.08.11-15.24.54:536][361]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.08.11-15.24.54:548][361]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.08.11-15.24.54:563][361]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.08.11-15.24.54:574][361]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.08.11-15.24.54:583][361]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.08.11-15.24.54:638][361]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.08.11-15.24.54:679][361]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.08.11-15.24.54:698][361]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.08.11-15.24.54:764][361]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.08.11-15.24.54:764][361]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.08.11-15.24.54:779][361]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.08.11-15.24.54:780][361]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.08.11-15.24.54:785][361]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.08.11-15.24.54:785][361]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.08.11-15.24.54:785][361]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.08.11-15.24.54:785][361]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.08.11-15.24.54:805][361]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.08.11-15.24.54:805][361]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.08.11-15.24.54:808][361]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.08.11-15.24.54:808][361]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.08.11-15.24.54:832][361]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.08.11-15.24.54:832][361]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.08.11-15.24.54:832][361]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.08.11-15.24.54:838][361]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.08.11-15.24.54:839][361]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.08.11-15.24.54:858][361]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.08.11-15.24.54:858][361]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.08.11-15.24.54:858][361]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.08.11-15.24.54:872][361]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.08.11-15.24.55:274][361]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.08.11-15.24.55:274][361]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.08.11-15.24.55:274][361]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.08.11-15.24.55:274][361]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.08.11-15.24.55:274][361]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.08.11-15.24.55:274][361]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.08.11-15.24.55:300][361]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.08.11-15.24.55:300][361]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.08.11-15.24.55:316][361]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.08.11-15.24.55:316][361]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.08.11-15.24.55:316][361]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.08.11-15.24.55:321][361]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.08.11-15.24.55:641][361]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.08.11-15.24.55:705][361]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.08.11-15.24.55:705][361]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.08.11-15.24.55:734][361]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.08.11-15.24.55:748][361]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.08.11-15.24.55:765][361]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.08.11-15.24.55:765][361]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.08.11-15.24.55:765][361]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.08.11-15.24.55:777][361]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.08.11-15.24.55:777][361]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.08.11-15.24.55:784][361]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.08.11-15.24.55:784][361]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.08.11-15.24.55:784][361]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.08.11-15.24.55:784][361]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.08.11-15.24.55:822][361]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.08.11-15.24.55:831][361]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.08.11-15.24.55:831][361]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.08.11-15.24.55:831][361]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.08.11-15.24.55:831][361]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.08.11-15.24.55:831][361]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.08.11-15.24.55:840][361]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.08.11-15.24.55:848][361]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.08.11-15.24.55:848][361]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.08.11-15.24.55:848][361]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.08.11-15.24.55:848][361]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.08.11-15.24.55:861][361]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.08.11-15.24.55:861][361]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.08.11-15.24.55:861][361]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.08.11-15.24.55:861][361]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.08.11-15.24.55:861][361]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.08.11-15.24.55:861][361]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.08.11-15.24.55:861][361]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.08.11-15.24.55:861][361]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.08.11-15.24.55:861][361]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.08.11-15.24.55:881][361]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.08.11-15.24.55:881][361]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.08.11-15.24.55:960][361]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.08.11-15.24.56:060][361]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.08.11-15.24.56:067][361]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.08.11-15.24.56:067][361]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.08.11-15.24.56:067][361]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.08.11-15.24.56:163][361]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.08.11-15.24.56:163][361]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.08.11-15.24.56:163][361]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.08.11-15.24.56:202][361]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.08.11-15.24.56:294][361]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.08.11-15.24.56:335][361]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.08.11-15.24.56:358][361]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.08.11-15.24.56:358][361]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.08.11-15.24.56:358][361]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.08.11-15.24.56:358][361]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.08.11-15.24.56:358][361]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.08.11-15.24.56:358][361]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.08.11-15.24.56:358][361]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.08.11-15.24.56:358][361]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.08.11-15.24.56:471][361]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.08.11-15.24.56:471][361]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.08.11-15.24.56:471][361]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.08.11-15.24.56:471][361]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.08.11-15.24.56:471][361]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.08.11-15.24.56:471][361]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.11-15.24.56:471][361]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.11-15.24.56:574][361]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.11-15.24.56:692][361]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.11-15.24.56:692][361]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.11-15.24.56:692][361]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.11-15.24.56:710][361]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.11-15.24.56:710][361]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.11-15.24.56:723][361]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.11-15.24.56:723][361]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.11-15.24.56:723][361]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.11-15.24.56:723][361]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.11-15.24.56:723][361]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.11-15.24.56:723][361]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.11-15.24.56:723][361]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.11-15.24.56:723][361]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.11-15.24.56:736][361]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.11-15.24.56:744][361]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.11-15.24.56:766][361]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.11-15.24.56:766][361]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.11-15.24.56:767][361]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.11-15.24.56:783][361]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.11-15.24.56:787][361]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.11-15.24.56:802][361]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.11-15.24.56:802][361]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.11-15.24.56:802][361]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.11-15.24.56:802][361]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.11-15.24.56:812][361]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.11-15.24.56:820][361]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.11-15.24.56:832][361]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.11-15.24.56:832][361]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.11-15.24.56:832][361]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.11-15.24.56:856][361]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.11-15.24.56:856][361]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.11-15.24.56:856][361]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.11-15.24.56:856][361]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.11-15.24.56:876][361]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.11-15.24.56:891][361]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.11-15.24.56:891][361]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.11-15.24.56:965][361]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.11-15.24.56:978][361]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.11-15.24.56:989][361]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.11-15.24.57:005][361]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.11-15.24.57:020][361]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.11-15.24.57:042][361]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.11-15.24.57:100][361]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.11-15.24.57:100][361]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.11-15.24.57:127][361]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.11-15.24.57:127][361]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.11-15.24.57:130][361]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.11-15.24.57:143][361]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.11-15.24.57:143][361]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.11-15.24.57:143][361]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.11-15.24.57:143][361]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.11-15.24.57:143][361]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.11-15.24.57:143][361]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.11-15.24.57:143][361]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.11-15.24.57:143][361]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.11-15.24.57:143][361]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.11-15.24.57:153][361]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.11-15.24.57:153][361]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.11-15.24.57:163][361]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.11-15.24.57:217][361]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.11-15.24.57:234][361]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.11-15.24.57:246][361]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.11-15.24.57:305][361]LogDerivedDataCache: Shutdown
+[2019.08.11-15.24.57:305][361]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.11-15.24.57:321][361]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.11-15.24.57:330][361]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.11-15.24.57:342][361]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.11-15.24.57:350][361]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.11-15.24.57:355][361]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.11-15.24.57:364][361]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.11-15.24.57:377][361]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.11-15.24.57:377][361]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.11-15.24.57:377][361]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.11-15.24.57:377][361]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.11-15.24.57:390][361]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.11-15.24.57:390][361]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.11-15.24.57:390][361]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.11-15.24.57:390][361]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.11-15.24.57:395][361]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.11-15.24.57:395][361]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.11-15.24.57:403][361]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.11-15.24.57:422][361]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.11-15.24.57:422][361]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.11-15.24.57:435][361]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.11-15.24.57:483][361]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.11-15.24.57:495][361]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.11-15.24.57:500][361]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.11-15.24.57:500][361]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.11-15.24.57:509][361]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.11-15.24.57:509][361]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.11-15.24.57:672][361]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.11-15.24.57:672][361]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.11-15.24.57:672][361]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.11-15.24.57:672][361]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.11-15.24.57:672][361]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.11-15.24.57:673][361]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.11-15.24.57:673][361]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.11-15.24.57:673][361]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.11-15.24.57:673][361]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.11-15.24.57:673][361]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.11-15.24.57:673][361]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.11-15.24.57:673][361]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.11-15.24.57:674][361]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.11-15.24.57:674][361]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.11-15.24.57:718][361]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.11-15.24.57:718][361]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.11-15.24.57:723][361]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.11-15.24.57:723][361]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.11-15.24.57:723][361]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.11-15.24.57:723][361]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.11-15.24.57:724][361]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.11-15.24.57:755][361]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.11-15.24.57:783][361]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.11-15.24.57:783][361]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.08.11-15.24.57:783][361]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B783304D8-4E05-D58C-9942-DF8A6589F04E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.0-5660361%2B%2B%2BUE4%2BRelease-4.22&UserID=f754538b400f66b67a3764ac6f1a2a6b%7Cef131e5e774a4702bd66fc8b1e02b39a%7Cfbc9beb5-caf0-4e8a-bf23-d8376b28d54b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.11-15.24.57:783][361]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B783304D8-4E05-D58C-9942-DF8A6589F04E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.0-5660361%2B%2B%2BUE4%2BRelease-4.22&UserID=f754538b400f66b67a3764ac6f1a2a6b%7Cef131e5e774a4702bd66fc8b1e02b39a%7Cfbc9beb5-caf0-4e8a-bf23-d8376b28d54b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.11-15.24.57:792][361]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.11-15.24.57:797][361]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.11-15.24.57:805][361]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.11-15.24.57:812][361]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.11-15.24.57:818][361]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.11-15.24.57:819][361]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.11-15.24.57:832][361]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.11-15.24.57:838][361]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.11-15.24.57:867][361]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.11-15.24.57:867][361]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.11-15.24.57:867][361]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.11-15.24.57:873][361]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.11-15.24.57:892][361]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.11-15.24.57:910][361]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.11-15.24.57:910][361]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.11-15.24.57:910][361]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.11-15.24.57:918][361]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.11-15.24.57:918][361]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.11-15.24.57:918][361]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.11-15.24.57:969][361]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.11-15.24.57:969][361]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.11-15.24.57:981][361]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.11-15.24.57:981][361]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.11-15.24.57:992][361]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.11-15.24.58:032][361]LogExit: Exiting.
+[2019.08.11-15.24.58:067][361]Log file closed, 08/11/19 17:24:58
