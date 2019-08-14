@@ -6446,3 +6446,56 @@ Script Stack (0 frames):
 [2019.08.14-16.58.06:863][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
 [2019.08.14-16.58.07:106][403]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonExampleMap32F0F3F84B13377996F5D9B426272F91.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.08.14-16.58.08:008][403]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/FirstPersonExampleMap_BuiltData39CA550346928FFE5B4451B5D4DD8734.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.08.14-17.04.37:830][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/BulletImpact" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Particles/BulletImpact.uasset" SILENT=true
+[2019.08.14-17.04.37:860][564]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/BulletImpact34BEC1BC49738197A74EADB0E5660686.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Particles/BulletImpact.uasset'
+[2019.08.14-17.04.38:049][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.08.14-17.04.38:086][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.08.14-17.04.38:118][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.08.14-17.04.39:818][753]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/BulletImpact.BulletImpact
+[2019.08.14-17.04.39:993][753]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2019.08.14-17.04.54:803][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-17.05.06:516][679]LogParticles: Warning: MaxCount =  631 for Emitter ParticleSpriteEmitter_4 (/Game/Particles/BulletImpact.BulletImpact)
+[2019.08.14-17.05.17:262][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-17.05.18:641][129]LogParticles: Warning: MaxCount =  631 for Emitter ParticleSpriteEmitter_4 (/Game/Particles/BulletImpact.BulletImpact)
+[2019.08.14-17.05.31:359][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-17.06.34:685][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.14-17.08.07:823][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-17.08.42:729][800]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.14-17.08.53:642][ 79]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.14-17.09.03:000][178]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.14-17.09.10:441][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/BulletImpact" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Particles/BulletImpact.uasset" SILENT=true
+[2019.08.14-17.09.10:484][ 61]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/BulletImpact0254E2164F99314B9091F7A06AEC318E.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Particles/BulletImpact.uasset'
+[2019.08.14-17.09.14:106][485]LogCascade: Quitting Cascade. FXSystem=0x000001E3F8D24640
+[2019.08.14-17.10.35:924][505]BlueprintLog: New page: Compile RifleProyectile
+[2019.08.14-17.10.36:270][505]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2019.08.14-17.10.36:766][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RifleProyectile" FILE="../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/RifleProyectile.uasset" SILENT=true
+[2019.08.14-17.10.36:834][555]LogSavePackage: Moving '../../../../../../Luis/UnrealProjects/COD/COD/Saved/RifleProyectile03BE9F5D4F5780761C2A06ABC6A80F6D.tmp' to '../../../../../../Luis/UnrealProjects/COD/COD/Content/Blueprints/RifleProyectile.uasset'
+[2019.08.14-17.10.38:962][792]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.14-17.10.38:978][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.14-17.10.38:978][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.14-17.10.38:978][792]PIE: New page: PIE session: FirstPersonExampleMap (Aug 14, 2019, 9:10:38 PM)
+[2019.08.14-17.10.38:979][792]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.08.14-17.10.38:991][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011444s)
+[2019.08.14-17.10.38:991][792]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.08.14-17.10.38:991][792]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2019.08.14-17.10.38:991][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012354s)
+[2019.08.14-17.10.39:054][792]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2019.08.14-17.10.39:106][792]LogInit: XAudio2 using 'Altavoces (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.08.14-17.10.39:115][792]LogInit: FAudioDevice initialized.
+[2019.08.14-17.10.39:145][792]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.14-17.10.39:151][792]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.08.14-19.10.39
+[2019.08.14-17.10.39:151][792]LogWorld: Bringing up level for play took: 0.004490
+[2019.08.14-17.10.39:166][792]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.194
+[2019.08.14-17.10.39:167][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.14-17.10.43:909][345]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.14-17.10.43:910][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-17.10.43:938][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.14-17.10.43:939][345]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.08.14-17.10.43:991][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-17.10.43:997][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.08.14-17.10.44:018][346]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.08.14-17.10.48:372][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-17.11.53:189][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-17.11.53:368][481]LogActorFactory: Actor Factory created Floor_400x400
+[2019.08.14-17.11.54:625][595]LogActorFactory: Actor Factory created Floor_400x400
+[2019.08.14-17.12.12:479][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
